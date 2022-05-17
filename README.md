@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.ibm.com%2F&psig=AOvVaw3owXP12dEuF95izo5R4PRe&ust=1652858627106000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDIh7GA5vcCFQAAAAAdAAAAABAD" alt="cover" />
+<img width="https://www.whitesourcesoftware.com/wp-content/media/2021/05/aHViPTcyNTE0JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlMjA1MWQxOWY2NTUuanBnJnZlcnNpb249MDAwMCZzaWc9NGJhMDhmZWU5ZDQ4ZGVjNjcwNzFlNmFhMDg3NzliNzA3D.jpeg" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vishvabala C S</h1>
