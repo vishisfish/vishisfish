@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5ZSTeNBzZy-B3U6h7xyPTvr9KlC3raXkag&usqp=CAU" alt="cover" />
+<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fweb-development-service&psig=AOvVaw2hYboIEADTLSdry8pchCM2&ust=1652863413719000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCN9ZiS5vcCFQAAAAAdAAAAABAD" alt="cover" />
 </div>
 <h1> Greetings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
