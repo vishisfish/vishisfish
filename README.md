@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://pronovix.com/sites/default/files/blogpost/image/blogpost_joker_images_1200x800-01.png" alt="cover" />
 </div>
 <h1> Greetings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
