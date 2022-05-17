@@ -11,7 +11,7 @@
 <div>
 <h2>About Me 💬</h2>
   
-  <img width="55%" align="right" alt="Github" src="https://www.michaeldempsey.me/animation/_common/images/01/sideimages/monstersinccopy.png" />
+  <img height=55% width="55%" align="right" alt="Github" src="https://www.michaeldempsey.me/animation/_common/images/01/sideimages/monstersinccopy.png" />
 
 - 🔭 I’m currently working on **Backend Development**
 
