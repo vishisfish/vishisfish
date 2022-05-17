@@ -1,7 +1,9 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5ZSTeNBzZy-B3U6h7xyPTvr9KlC3raXkag&usqp=CAU" alt="cover" />
 </div>
-
+<h1> Greetings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+  
 <h1 align="center">Hi 👋, I'm Vishvabala C S</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
