@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.ibm.com%2F&psig=AOvVaw3owXP12dEuF95izo5R4PRe&ust=1652858627106000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDIh7GA5vcCFQAAAAAdAAAAABAD" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Vishvabala C S</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
