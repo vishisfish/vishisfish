@@ -4,8 +4,11 @@
 <h1> Greetings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
   
-<h1 align="center">Hi 👋, I'm Vishvabala C S</h1>
-<h3 align="center">A passionate Computer Science student from India</h3>
+</p>
+<div size='20px'> Hello! I'm Vishvabala, a passionate Computer Science student from India. 
+</div>
+
+<h2>About Me 💬</h2>
 
 - 🔭 I’m currently working on **Backend Development**
 
