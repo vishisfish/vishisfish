@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **projects that are new and interesting**
 
-<hr>
+<hr style="color:red;">
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href="https://twitter.com/vishvabalacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishvabalacs" height="30" width="40" /></a>
