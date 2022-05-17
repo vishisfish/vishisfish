@@ -1,5 +1,5 @@
 <div align="center">
-<img width="https://www.whitesourcesoftware.com/wp-content/media/2021/05/aHViPTcyNTE0JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlMjA1MWQxOWY2NTUuanBnJnZlcnNpb249MDAwMCZzaWc9NGJhMDhmZWU5ZDQ4ZGVjNjcwNzFlNmFhMDg3NzliNzA3D.jpeg" alt="cover" />
+<img width="100%" height = "250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5ZSTeNBzZy-B3U6h7xyPTvr9KlC3raXkag&usqp=CAU" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vishvabala C S</h1>
