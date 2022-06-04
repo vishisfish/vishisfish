@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **projects that are new and interesting**
 </div>
 
-<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height=6% width=6%> </h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height=8% width=8% margin-top=20px> </h3>
 <p align="left">
 <a href="https://twitter.com/vishvabalacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishvabalacs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishvabalacs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvabala c s" height="30" width="40" /></a>
