@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://pronovix.com/sites/default/files/blogpost/image/blogpost_joker_images_1200x800-01.png" alt="cover" />
 </div>
-<h1> Greetings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" heigth =10px width = 10px> </h1>
+<h1> Greetings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" heigth =10% width = 10%> </h1>
 <p align='center'>
   
 </p>
